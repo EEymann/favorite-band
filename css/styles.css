@@ -1,9 +1,13 @@
 img {
   float: left;
+  padding: 4px;
 }
 
 .sidebar {
   width: 30%;
   float: right;
   background-color: turquoise;
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px;
 }
